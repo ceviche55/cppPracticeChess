@@ -1,0 +1,5 @@
+/inText.txt
+.vscode/
+/chess
+*.o
+/.DS_Store
