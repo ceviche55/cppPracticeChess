@@ -74,7 +74,7 @@ class rookPeice : public genPeice {
         rookPeice(string fn, int x);
 
         //Methods
-        void validMove(genPeice b[8][8], int x2, int y2);
+        void validMove(genPeice b[8][8], int y1, int x1, int y2, int x2);
 };
 
 class pawnPeice : public genPeice {

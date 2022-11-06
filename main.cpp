@@ -106,11 +106,6 @@ int main() {
 
     board[yChoice][xChoice].peiceMove(&board, yChoice, xChoice, yChoice2, xChoice2);
 
-    /* 
-    -The pieces don't get moved and a random piece dissappears
-    -The space is applied to y+1
-     */
-
     drawBoard(board);
 
     return 0;
