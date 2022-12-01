@@ -1,5 +1,5 @@
 # C++ Chess [WIP]
----
+
 This project has been created in order to practice C++ and now to practice Git/Github.
 
 ---
